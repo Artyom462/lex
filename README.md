@@ -29,3 +29,4 @@ This template was built as part of the [Full Stack Developer course](https://4ge
 
 You can find other templates and resources like this at the [school github page](https://github.com/4geeksacademy/).
 # photo-feed
+# photo
