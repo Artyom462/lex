@@ -1,4 +1,5 @@
 
+
 .card {
     position: relative;
     width: 360px;
@@ -64,3 +65,92 @@ font-weight: 500;
 margin-top: 5px;
 font-size: 16px;
 }
+
+.cardq {
+    position: relative ;top: 550px; right: 450px;
+    width: 360px;
+    height: 480px;
+    background-color: #ccc;
+    padding: 20px;
+    margin: 50px;
+}
+
+    .cardq .topq {
+        display: flex;
+        justify-content: space-between;
+    
+    }
+        
+    .cardq .topq .userDq {
+        display:flex ;
+        align-items: center;
+    }
+
+
+    .cardq .topq .userDq .profile-imgq {
+        position: relative;
+        width: 36px;
+        height: 36px;
+        border-radius:50% ;
+        overflow: hidden;
+        margin-right: 10px;
+    }
+
+
+    .cardq .topq .userDq h3 {
+        font-size: 16px;}
+
+
+        .cardq .topq .userDq h3 span {
+            font-size: 0.75em;}
+
+
+
+
+
+
+
+
+
+
+    .card3 {
+        position: relative; 
+        top: 1140px; right: 950px;
+        width: 360px;
+        height: 480px;
+        background-color: #ccc;
+        padding: 20px;
+        margin: 50px;
+    }
+    .card3 .topq3 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+    .card3 .topq3 .userDq3 {
+        display:flex ;
+        align-items: center;
+    }
+
+
+    .card3 .topq3 .userDq3 .profile-imgq3 {
+        position: relative;
+        width: 36px;
+        height: 36px;
+        border-radius:50% ;
+        overflow: hidden;
+        margin-right: 10px;
+    }
+
+
+    .card3 .topq3 .userDq3 h3 {
+        font-size: 16px;}
+
+
+        .card3 .topq3 .userDq3 h3 span {
+            font-size: 0.75em;}
+
+
+            
+
